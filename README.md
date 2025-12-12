@@ -87,14 +87,6 @@ https://github.com/mahmoud358/udemy-backend
 
 ---
 
-## GitHub Activity & Statistics
-I maintain consistent contributions, focusing on backend logic, project structure, and improving the depth of my codebase.
-
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedMamdou-h&show_icons=true&hide_border=true&theme=default" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMamdou-h&layout=compact&hide_border=true&theme=default" height="160" />
-
----
-
 ## Additional Interests
 - System design fundamentals  
 - SQL query optimization  
